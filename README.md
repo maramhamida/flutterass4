@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # asss4
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# flutterass4
+application for assignment
+>>>>>>> 5eef22ac932037b1a4f617d1168b364430f70381
